@@ -1,0 +1,14 @@
+{
+    "dup": {
+        "name": "Estudar Typescript",
+        "is_done": false
+    },
+    "att":{
+        "name":"Pagar contas de consumo",
+        "is_done": false
+    },
+    "del":{
+        "name": "Estudar Javascript",
+        "is_done": false
+    }
+}
